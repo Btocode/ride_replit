@@ -1,0 +1,7 @@
+[run]
+source=accounts/, uc_back/,
+omit=
+    env
+    */migrations/*
+    */tests/*
+    */__init__.py
